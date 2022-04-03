@@ -5506,7 +5506,7 @@ Swiftly strike up to 5 creatures in range. Make a weapon attack against the crea
 
 #### Berserker
 
-You have trained your body and mind for battle, learning to ignore the pain and push through your enemies.  Twice per day you can push past your limits and go berserk.  While in the berserker form, you can re-roll 1 wound die from every attack roll.
+You have trained your body and mind for battle, learning to ignore the pain and push through your enemies.  Twice per day you can push past your limits and go berserk for 10 minutes.  While in the berserker form, you can re-roll 1 wound die from every attack roll.
 
 #### Blessed
 Known to you or not, you have been given a blessing by a powerful being. You gain access to additional feats based on the being that has given you their blessing. In addition, you gain starting benefits based on the blessing:
