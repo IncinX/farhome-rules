@@ -1,4 +1,4 @@
-# Farhome-Eberron Companion Guide
+# Farhome-Eberron Companion Ruleset
 
 ## Table of Contents
 
