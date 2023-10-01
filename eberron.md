@@ -368,7 +368,7 @@ When casted at level 7 or above, all attacks may re-roll 2 defense dice.
 - **Duration:** instant
 - **Damage Type:** necrotic
 
-Create an area to drain the life from your enemies. All enemies within a targeted 5x5 area must make a stamina save against your spellcasting roll or suffer 4 wound dice in damage.
+Create an area to drain the life from your enemies. All enemies within a targeted 3x3 area must make a stamina save against your spellcasting roll or suffer 4 wound dice in damage.
 
 Increase the affected area by 1 in each direction for each level cast above 4th.
 
