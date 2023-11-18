@@ -414,6 +414,43 @@ The caster must remain in range of the target and concentrating for the plague t
 
 For each level cast above 5th, the maximum number of wounds increases by 2.
 
+#### Summon Tentacles
+*5th level*
+
+- **Casting Time:** 11 AP
+- **Range:** 20
+- **Duration:** 1 hour, concentration
+
+You call dark astral tendrils into the current plane to strangle your foes. Make a spellcasting roll, adding a terrible die for each tentacle up to a maximum of 3.  Within range, those tentacles sprout from a solid surface and remain fixed. Each tentacle acts on your turn and strikes at a creature of your choosing within 4 tiles. A creature must makes a defense roll against your spellcasting roll or be struck. Upon being struct, the creature takes 2 wound dice in bludgeoning damage and 2 wound dice in necrotic damage.
+
+The maximum number of tentacles increases by 2 for each level cast above 5th.
+
+### 6th Level
+
+#### Heart Grip
+*6th level*
+
+- **Casting Time:** 6 AP
+- **Range:** 20
+- **Duration:** instant
+
+You grip at the hearts for creatures whose blood you possess. Each creature targeted must make a stamina save against your spellcasting roll. On failure, they take 4 wound dice in necrotic damage.
+
+Add a superior die to the roll for every level cast above 6th.
+
+### 7th Level
+
+#### Amalgamation
+*7th level*
+
+- **Casting Time:** 11 AP
+- **Range:** 40
+- **Duration:** 1 hour
+
+You call upon your powers of blood and bone to create a monstrous monstrosity forming nearby dead bodies into a grotesque creature. Make a spellcasting roll, adding up all the successes. For each success, the spell can absorb 5 bodies. The creature gains 1 wound for every body absorbed. The creature has a movement 6 and sprint of 8. It can make two attacks on each turn using 5 superior dice for the attack rolls and doing 2 wounds of bludgeoning damage and 2 wound dice of piercing damage on hit.
+
+The spell absorbs an additional 5 bodies for each success for every level cast above 7th.
+
 ### 8th Level
 
 #### Regrowth
@@ -702,6 +739,17 @@ You form and spray a highly acidic substance in a cone. The acid is a mild irrit
 
 Add an enhanced die to the roll for every level cast about 2nd.
 
+#### Stone Skin
+*4th level*
+
+- **Casting Time:** 5 AP
+- **Range:** touch
+- **Duration:** 10 minutes, concentration
+
+You cause a creatures skin to harden, imbuing it with the strength of stone. Make a spellcasting roll against 2 terrible dice. This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance 1 to nonmagical bludgeoning, piercing, and slashing damage.
+
+Add a bad die and another level of resistance for every 2 levels cast above 4th.
+
 ### Fifth Level
 
 #### Nature's Warren
@@ -714,6 +762,49 @@ Add an enhanced die to the roll for every level cast about 2nd.
 Force open a rift leading to a natural warren, a space between realms. You can hold the warren open for one minute, after which the gate closes. While inside the warren, every hour of travel is equivalent to 4 hours of travel in a realm. You may end the spell at any time, opening a gate back to the realm this spell was cast in.
 
 For every level above 5th, the travel in the warren is equivalent to an extra hour of travel in a realm.
+
+#### Insect Plague
+*5th level*
+
+- **Casting Time:** 8 AP
+- **Range:** 15
+- **Duration:** 10 minutes, concentration
+- **Damage Type:** piercing
+
+Summon a swarm of biting locusts in a 5x5 area. Make a spell cast against 2 terrible dice. On success, the spell activates and all creatures the caster deems an enemy are accosted by the locusts suffering 4 wound dice in piercing damage when they first enter or end their turn in the area.
+
+The area is increased by 2 for every level above 5th.
+
+#### Tree Stride
+*5th level*
+
+- **Casting Time:** 4 AP
+- **Range:** self
+- **Duration:** 5 minutes, concentration
+
+You gain the ability to transport through the trees of the world through living magic. Make a spellcasting roll against 2 terrible dice. On success, you gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 50 tiles.
+
+Both trees must be living and at least the same size as you. You must use 1 tile of movement to enter a tree. You instantly know the location of all other trees of the same kind within 50 tiles and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you’re in. You appear in a spot of your choice within 1tile of the destination tree, using another 1 tile of movement. If you have no movement left, you appear within tile of the tree you entered.
+
+You can use this transportation ability once per round for the duration. You must end each turn outside a tree.
+
+The spell can be cast on 1 additional person and adds 1 additional bad die for every level cast above 5th.
+
+#### Ritual of Immunity
+*5th level*
+
+- **Casting Time:** 1 hour
+- **Range:** 5
+- **Duration:** 2 hours
+
+You construct a ritual to imbue yourself and others with the healing properties of nature and resistance for curses and disease. Make a spellcasting roll against 1 bad die for every creature targeted. For the duration, the creatures targeted are healed of and immune to the following effects:
+
+- Petrification
+- All diseases
+- Spell based curses
+- Resistance 2 to poison
+
+The spell adds an hour for every level cast above 5th.
 
 ### Sixth Level
 
