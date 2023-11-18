@@ -345,7 +345,7 @@ You open a rift to the astral plane in a 2x2 tile area. All creatures trapped wi
 
 Increase the size by 1 tile in each direction for every level cast above 3rd.
 
-### 4th Level
+### Fourth Level
 
 #### Living Totem - Foresight
 *4th level*
@@ -388,7 +388,7 @@ All creatures that partake gain the following benefits.
 
 For every level cast above 4th, add a bad die and increase the maximum wounds by 1.
 
-### 5th Level
+### Fifth Level
 
 #### Gate of the Old Gods
 *5th level*
@@ -425,7 +425,7 @@ You call dark astral tendrils into the current plane to strangle your foes. Make
 
 The maximum number of tentacles increases by 2 for each level cast above 5th.
 
-### 6th Level
+### Sixth Level
 
 #### Heart Grip
 *6th level*
@@ -438,7 +438,7 @@ You grip at the hearts for creatures whose blood you possess. Each creature targ
 
 Add a superior die to the roll for every level cast above 6th.
 
-### 7th Level
+### Seventh Level
 
 #### Amalgamation
 *7th level*
@@ -451,7 +451,7 @@ You call upon your powers of blood and bone to create a monstrous monstrosity fo
 
 The spell absorbs an additional 5 bodies for each success for every level cast above 7th.
 
-### 8th Level
+### Eighth Level
 
 #### Regrowth
 *8th level*
@@ -464,7 +464,7 @@ You are able to regrow a complete medium sized creature from a drop of blood. As
 
 For every level cast above 8th, the body permanently gains an extra wound to their max health.
 
-### 9th Level
+### Ninth Level
 
 #### Cellular Regeneration
 *9th level*
@@ -479,7 +479,7 @@ If cast at 10th level, you can heal an additional 20 wounds of damage.
 
 ## Curse
 
-### 5th Level
+### Fifth Level
 
 #### Alter Memories
 *5th level*
