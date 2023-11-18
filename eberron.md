@@ -414,6 +414,43 @@ The caster must remain in range of the target and concentrating for the plague t
 
 For each level cast above 5th, the maximum number of wounds increases by 2.
 
+#### Summon Tentacles
+*5th level*
+
+- **Casting Time:** 11 AP
+- **Range:** 20
+- **Duration:** 1 hour, concentration
+
+You call dark astral tendrils into the current plane to strangle your foes. Make a spellcasting roll, adding a terrible die for each tentacle up to a maximum of 3.  Within range, those tentacles sprout from a solid surface and remain fixed. Each tentacle acts on your turn and strikes at a creature of your choosing within 4 tiles. A creature must makes a defense roll against your spellcasting roll or be struck. Upon being struct, the creature takes 2 wound dice in bludgeoning damage and 2 wound dice in necrotic damage.
+
+The maximum number of tentacles increases by 2 for each level cast above 5th.
+
+### 6th Level
+
+#### Heart Grip
+*6th level*
+
+- **Casting Time:** 6 AP
+- **Range:** 20
+- **Duration:** instant
+
+You grip at the hearts for creatures whose blood you possess. Each creature targeted must make a stamina save against your spellcasting roll. On failure, they take 4 wound dice in necrotic damage.
+
+Add a superior die to the roll for every level cast above 6th.
+
+### 7th Level
+
+#### Amalgamation
+*7th level*
+
+- **Casting Time:** 11 AP
+- **Range:** 40
+- **Duration:** 1 hour
+
+You call upon your powers of blood and bone to create a monstrous monstrosity forming nearby dead bodies into a grotesque creature. Make a spellcasting roll, adding up all the successes. For each success, the spell can absorb 5 bodies. The creature gains 1 wound for every body absorbed. The creature has a movement 6 and sprint of 8. It can make two attacks on each turn using 5 superior dice for the attack rolls and doing 2 wounds of bludgeoning damage and 2 wound dice of piercing damage on hit.
+
+The spell absorbs an additional 5 bodies for each success for every level cast above 7th.
+
 ### 8th Level
 
 #### Regrowth
